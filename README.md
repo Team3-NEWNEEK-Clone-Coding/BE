@@ -41,8 +41,15 @@ FE
 |  김예진  | [@Haegnim](https://github.com/Haegnim)         | 이모지 처리, 유저 좋아요 기능                                            |
 |  김정빈  | [@Haegnim](https://github.com/Haegnim)         | 웹 크롤링                                             |
 
-## 🌲 기술 스택
+## 💪 기술 스택
 
-### Back-End
-                                                                                                                      
+### Platforms & Languages
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+<img src="https://img.shields.io/badge/Spring Security-569A31?style=for-the-badge&logo=springsecurity&logoColor=white"><br>
+<img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+<img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/Github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 
